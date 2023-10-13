@@ -11,6 +11,11 @@
 [Unreal Photon SDK](https://www.photonengine.com/sdks#realtime-sdkrealtimewindows)   
 [Photon API Doc](https://doc-api.photonengine.com/en/cpp/current/index.html)
 
+
+<성과>
+- SDK를 이용하여 Photon 서버를 다룰 수 있는 시간이었습니다.
+- 라이브러리 및 모듈 사용 방법에 대해 깊게 공부할 수 있었습니다.
+  
 ---
 <콘텐츠 소개>
 - 게임에서 필수적인 텍스트 채팅과 보이스 채팅
